@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person user="firstname3">
+<firstName>FirstName3</firstName>
+	<lastName>LastName3</lastName>
+	<state>MG</state>
+	<country>Brasil</country>
+</person>
